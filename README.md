@@ -1,7 +1,6 @@
 # hello-world
 Just another repository
-Read me
 
 Hello This is editor README file.
 
-Change memo
+2010709327 Lee Yong Hyun
